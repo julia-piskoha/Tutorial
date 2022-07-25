@@ -1,0 +1,27 @@
+/*цвет заголовков color: #212121;
+цвет основного текста color: #757575;
+цвет кнопки синий фон background: #2196F3;
+белый color: #FFFFFF;
+темный фон background: #2F303A;
+светлый фон background: #F5F4FA;
+самый светлый фон background: #E5E5E5;
+синий текст color: #2196F3;
+черный color: #000000;
+футер адрес color: rgba(255, 255, 255, 0.6);*/
+
+body {
+  background-color: #e5e5e5;
+  color: #757575;
+}
+.logo {
+  color: #000000;
+}
+.list {
+  list-style: none;
+}
+.site-nav {
+  color: #212121;
+}
+ul {
+  list-style: none;
+}
